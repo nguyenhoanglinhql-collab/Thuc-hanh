@@ -1,0 +1,17 @@
+D:\visual studio\b5.4\bin\Debug\net10.0-windows\b5.4.exe
+D:\visual studio\b5.4\bin\Debug\net10.0-windows\b5.4.deps.json
+D:\visual studio\b5.4\bin\Debug\net10.0-windows\b5.4.runtimeconfig.json
+D:\visual studio\b5.4\bin\Debug\net10.0-windows\b5.4.dll
+D:\visual studio\b5.4\bin\Debug\net10.0-windows\b5.4.pdb
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5._4.Form1.resources
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.csproj.GenerateResource.cache
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.AssemblyInfoInputs.cache
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.AssemblyInfo.cs
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.csproj.CoreCompileInputs.cache
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.dll
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\refint\b5.4.dll
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.pdb
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.genruntimeconfig.cache
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\ref\b5.4.dll
+D:\visual studio\b5.4\obj\Debug\net10.0-windows\b5.4.csproj.Up2Date
